@@ -15,3 +15,6 @@
 
 [QuiteRSS]: https://quiterss.org
 
+---------------------------------------
+
+[![arh's GitHub stats](https://github-readme-stats.vercel.app/api?username=arhohryakov)](https://github.com/anuraghazra/github-readme-stats)
